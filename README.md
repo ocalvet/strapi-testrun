@@ -1,3 +1,3 @@
 # strapi-testrun
 
-A quick description of strapi-testrun.
+A repository to test Strapi.io
