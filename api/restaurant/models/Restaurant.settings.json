@@ -12,11 +12,11 @@
   },
   "attributes": {
     "name": {
-      "default": "",
+      "default": "RestName",
       "type": "string"
     },
     "description": {
-      "default": "",
+      "default": "Restaurant description here",
       "type": "text"
     }
   }
